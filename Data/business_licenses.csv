@@ -1,0 +1,39 @@
+residency_id,business_id,business_name,license_number,license_type,issue_date,expiry_date,license_status,business_city,employees_est
+OMR-2026-0002,BIZ-1001,Al Wadi Group,LIC-308928,Consulting,2021-03-15,2023-03-29,Expired,Sur,24
+OMR-2026-0003,BIZ-1002,Al Wadi Group,LIC-571283,Logistics,2023-04-22,2025-03-09,Expired,Sur,6
+OMR-2026-0003,BIZ-1003,Al Wadi Services,LIC-883796,Trading,2020-05-09,2022-04-20,Active,Seeb,9
+OMR-2026-0003,BIZ-1004,Desert Falcon Trading,LIC-837502,Hospitality,2022-01-12,2023-12-14,Expired,Ibri,61
+OMR-2026-0006,BIZ-1005,Golden Crescent Trading,LIC-615580,IT Services,2023-08-02,2025-08-18,Expired,Rustaq,16
+OMR-2026-0010,BIZ-1006,North Star LLC,LIC-226782,Trading,2021-05-21,2023-04-24,Expired,Ibri,12
+OMR-2026-0010,BIZ-1007,Al Wadi Services,LIC-847659,Retail,2021-08-22,2023-08-20,Expired,Muscat,7
+OMR-2026-0011,BIZ-1008,North Star Group,LIC-180111,Hospitality,2020-11-03,2022-11-05,Active,Ibri,3
+OMR-2026-0011,BIZ-1009,Al Noor LLC,LIC-765807,Trading,2021-02-01,2022-12-24,Expired,Sohar,9
+OMR-2026-0012,BIZ-1010,Sea Pearl LLC,LIC-923281,IT Services,2020-12-24,2023-01-03,Expired,Buraimi,7
+OMR-2026-0012,BIZ-1011,Al Wadi Trading,LIC-867927,Retail,2022-06-27,2024-07-21,Expired,Buraimi,10
+OMR-2026-0012,BIZ-1012,Desert Falcon Est.,LIC-151356,Real Estate Services,2024-11-23,2026-10-26,Active,Seeb,3
+OMR-2026-0013,BIZ-1013,Desert Falcon LLC,LIC-368165,Construction,2019-12-01,2021-12-15,Expired,Sur,9
+OMR-2026-0013,BIZ-1014,North Star Trading,LIC-275460,Trading,2020-09-04,2022-08-28,Expired,Sohar,4
+OMR-2026-0014,BIZ-1015,Blue Horizon Group,LIC-330713,Logistics,2020-05-01,2022-05-20,Suspended,Rustaq,7
+OMR-2026-0016,BIZ-1016,Sea Pearl Services,LIC-195121,Car Rental,2023-01-18,2025-01-26,Active,Sohar,30
+OMR-2026-0018,BIZ-1017,Oasis Link LLC,LIC-948673,Car Rental,2024-03-26,2026-02-20,Active,Nizwa,16
+OMR-2026-0019,BIZ-1018,Sea Pearl Est.,LIC-383367,Retail,2022-08-18,2024-08-21,Expired,Ibri,7
+OMR-2026-0021,BIZ-1019,Oasis Link Services,LIC-820112,Retail,2023-08-03,2025-07-23,Expired,Seeb,7
+OMR-2026-0023,BIZ-1020,Sea Pearl Est.,LIC-519175,Consulting,2020-06-03,2022-04-30,Expired,Rustaq,3
+OMR-2026-0025,BIZ-1021,North Star Est.,LIC-715699,Trading,2021-07-02,2023-05-20,Active,Rustaq,6
+OMR-2026-0026,BIZ-1022,Blue Horizon Est.,LIC-360534,Retail,2018-10-27,2020-10-31,Suspended,Salalah,23
+OMR-2026-0026,BIZ-1023,Al Wadi Est.,LIC-189132,IT Services,2019-09-25,2021-08-29,Expired,Seeb,12
+OMR-2026-0029,BIZ-1024,Al Noor LLC,LIC-234182,Retail,2018-01-06,2019-12-08,Expired,Sur,5
+OMR-2026-0030,BIZ-1025,Al Wadi Trading,LIC-414939,Consulting,2022-11-27,2025-01-09,Expired,Seeb,10
+OMR-2026-0031,BIZ-1026,Al Noor Trading,LIC-663584,Food & Beverage,2020-02-25,2022-02-28,Expired,Sur,6
+OMR-2026-0032,BIZ-1027,Sea Pearl Est.,LIC-651842,Real Estate Services,2021-02-15,2023-02-10,Expired,Nizwa,9
+OMR-2026-0035,BIZ-1028,Desert Falcon Trading,LIC-122845,Consulting,2020-10-08,2022-08-27,Suspended,Nizwa,10
+OMR-2026-0037,BIZ-1029,North Star LLC,LIC-337802,Real Estate Services,2022-09-17,2024-08-12,Expired,Rustaq,18
+OMR-2026-0037,BIZ-1030,North Star Services,LIC-107081,Retail,2021-10-16,2023-10-24,Expired,Sur,8
+OMR-2026-0037,BIZ-1031,Sea Pearl LLC,LIC-903059,Consulting,2018-10-04,2020-09-14,Expired,Nizwa,7
+OMR-2026-0038,BIZ-1032,Desert Falcon Trading,LIC-753888,IT Services,2023-03-21,2025-03-03,Expired,Rustaq,5
+OMR-2026-0039,BIZ-1033,Al Noor Group,LIC-253493,Food & Beverage,2020-02-07,2022-01-20,Expired,Buraimi,4
+OMR-2026-0007,BIZ-1034,Royal Services,LIC-387684,Food & Beverage,2021-12-29,2024-01-08,Suspended,Buraimi,10
+OMR-2026-0007,BIZ-1035,Royal LLC,LIC-540975,Trading,2020-05-05,2022-04-05,Expired,Ibri,10
+OMR-2026-0007,BIZ-1036,Al Baraka Services,LIC-877488,Food & Beverage,2021-06-27,2023-06-03,Expired,Buraimi,16
+OMR-2026-0031,BIZ-1037,Pearl Gate LLC,LIC-322311,Consulting,2021-03-24,2023-04-14,Expired,Sohar,14
+OMR-2026-0031,BIZ-1038,Al Baraka LLC,LIC-773394,Construction,2024-05-09,2026-04-13,Active,Seeb,13

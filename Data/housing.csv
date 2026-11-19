@@ -1,0 +1,44 @@
+residency_id,property_id,property_type,ownership_type,city,address,move_in_date,move_out_date
+OMR-2026-0001,PROP-8001,Apartment,Owned,Salalah,"48, Bldg 43, Al Ghubrah, Salalah",2023-03-22,
+OMR-2026-0002,PROP-8002,Townhouse,Rented,Sur,"34, Bldg 88, Mabela, Sur",2018-12-25,
+OMR-2026-0003,PROP-8003,Apartment,Owned,Sur,"11, Bldg 2, Al Wadi, Sur",2018-06-07,
+OMR-2026-0004,PROP-8004,Townhouse,Rented,Sur,"25, Bldg 25, Azaiba, Sur",2024-05-04,2025-04-12
+OMR-2026-0005,PROP-8005,Townhouse,Rented,Ibri,"31, Bldg 61, Al Wadi, Ibri",2020-04-03,
+OMR-2026-0006,PROP-8006,Townhouse,Rented,Seeb,"20, Bldg 74, Qurum, Seeb",2016-04-18,
+OMR-2026-0007,PROP-8007,Apartment,Rented,Nizwa,"02, Bldg 5, Ruwi, Nizwa",2022-07-25,2025-08-10
+OMR-2026-0007,PROP-8008,Villa,Owned,Salalah,"02, Bldg 90, Ruwi, Salalah",2017-10-24,
+OMR-2026-0009,PROP-8009,Townhouse,Owned,Muscat,"05, Bldg 90, Al Khuwair, Muscat",2023-10-07,
+OMR-2026-0010,PROP-8010,Villa,Owned,Muscat,"35, Bldg 105, Qurum, Muscat",2022-08-15,
+OMR-2026-0011,PROP-8011,Villa,Rented,Salalah,"14, Bldg 32, Al Ghubrah, Salalah",2024-06-22,
+OMR-2026-0011,PROP-8012,Townhouse,Owned,Nizwa,"41, Bldg 106, Al Ghubrah, Nizwa",2016-05-21,
+OMR-2026-0012,PROP-8013,Townhouse,Rented,Sur,"21, Bldg 38, Qurum, Sur",2017-06-27,2020-02-07
+OMR-2026-0013,PROP-8014,Villa,Rented,Ibri,"24, Bldg 92, Al Khuwair, Ibri",2016-03-26,
+OMR-2026-0014,PROP-8015,Villa,Rented,Ibri,"27, Bldg 101, Al Khuwair, Ibri",2022-10-01,
+OMR-2026-0014,PROP-8016,Townhouse,Rented,Muscat,"37, Bldg 69, Al Khuwair, Muscat",2024-09-01,
+OMR-2026-0015,PROP-8017,Villa,Rented,Nizwa,"01, Bldg 56, Ruwi, Nizwa",2017-01-07,
+OMR-2026-0015,PROP-8018,Apartment,Owned,Seeb,"32, Bldg 45, Al Khuwair, Seeb",2024-07-18,
+OMR-2026-0016,PROP-8019,Villa,Rented,Salalah,"33, Bldg 107, Azaiba, Salalah",2024-12-07,
+OMR-2026-0017,PROP-8020,Townhouse,Rented,Sur,"11, Bldg 64, Qurum, Sur",2017-10-12,2018-11-15
+OMR-2026-0018,PROP-8021,Townhouse,Rented,Salalah,"07, Bldg 101, Al Wadi, Salalah",2024-08-06,
+OMR-2026-0019,PROP-8022,Townhouse,Rented,Ibri,"42, Bldg 55, Al Ghubrah, Ibri",2020-07-01,
+OMR-2026-0019,PROP-8023,Townhouse,Rented,Muscat,"25, Bldg 22, Al Wadi, Muscat",2019-05-26,2022-06-01
+OMR-2026-0020,PROP-8024,Townhouse,Rented,Nizwa,"38, Bldg 45, Al Khuwair, Nizwa",2017-06-03,
+OMR-2026-0021,PROP-8025,Townhouse,Rented,Ibri,"30, Bldg 22, Azaiba, Ibri",2021-01-18,
+OMR-2026-0022,PROP-8026,Apartment,Rented,Rustaq,"42, Bldg 60, Azaiba, Rustaq",2018-11-19,
+OMR-2026-0023,PROP-8027,Townhouse,Rented,Nizwa,"10, Bldg 93, Ruwi, Nizwa",2018-12-31,2021-06-18
+OMR-2026-0024,PROP-8028,Apartment,Rented,Nizwa,"13, Bldg 42, Qurum, Nizwa",2022-10-05,
+OMR-2026-0026,PROP-8029,Apartment,Rented,Sur,"25, Bldg 26, Al Ghubrah, Sur",2024-03-03,
+OMR-2026-0027,PROP-8030,Villa,Rented,Sohar,"07, Bldg 26, Al Amerat, Sohar",2024-11-29,
+OMR-2026-0030,PROP-8031,Villa,Owned,Salalah,"26, Bldg 2, Al Khuwair, Salalah",2020-05-09,
+OMR-2026-0032,PROP-8032,Villa,Rented,Buraimi,"10, Bldg 3, Al Hail, Buraimi",2021-08-11,
+OMR-2026-0034,PROP-8033,Villa,Rented,Sur,"15, Bldg 109, Mabela, Sur",2020-07-15,2021-09-16
+OMR-2026-0035,PROP-8034,Villa,Rented,Nizwa,"45, Bldg 81, Al Amerat, Nizwa",2023-03-12,2024-11-23
+OMR-2026-0036,PROP-8035,Townhouse,Rented,Salalah,"28, Bldg 33, Ruwi, Salalah",2018-09-19,
+OMR-2026-0037,PROP-8036,Townhouse,Rented,Rustaq,"42, Bldg 115, Ruwi, Rustaq",2022-12-20,
+OMR-2026-0038,PROP-8037,Apartment,Rented,Ibri,"35, Bldg 33, Al Khuwair, Ibri",2020-05-11,
+OMR-2026-0039,PROP-8038,Apartment,Owned,Nizwa,"07, Bldg 45, Al Wadi, Nizwa",2024-10-07,
+OMR-2026-0040,PROP-8039,Apartment,Rented,Rustaq,"22, Bldg 67, Azaiba, Rustaq",2024-01-17,
+OMR-2026-0040,PROP-8040,Apartment,Rented,Buraimi,"08, Bldg 66, Mabela, Buraimi",2021-02-14,2023-07-14
+OMR-2026-0031,PROP-9366,Apartment,Rented,Salalah,"32, Bldg 62, Azaiba, Salalah",2023-10-22,
+OMR-2026-0031,PROP-9638,Townhouse,Owned,Salalah,"20, Bldg 20, Azaiba, Salalah",2023-04-27,
+OMR-2026-0031,PROP-9927,Apartment,Owned,Muscat,"09, Bldg 101, Azaiba, Muscat",2023-09-12,
